@@ -1,12 +1,12 @@
 basic:
-    name: 'Leslie Little III'
+    name: 'Willa Daniel'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.gerhold.org/quaerat-eos-nemo-aut-laborum-voluptatem-ea-similique'
-        - 'https://www.emard.biz/placeat-itaque-quos-dolorem-aut-est-ut-illo'
+        - 'https://kohler.net/rerum-aspernatur-quis-itaque.html'
+        - 'https://wisoky.net/voluptas-odit-eaque-quo-repellendus-autem-nihil'
     monitoring:
         days: {  }
         type: ''
